@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/heroes-app/static/css/main.5868ac5d.css",
+    "main.js": "/heroes-app/static/js/main.87f1aa22.js",
+    "static/media/landing.jpg": "/heroes-app/static/media/landing.13b0340df0469a795a5c.jpg",
+    "index.html": "/heroes-app/index.html",
+    "main.5868ac5d.css.map": "/heroes-app/static/css/main.5868ac5d.css.map",
+    "main.87f1aa22.js.map": "/heroes-app/static/js/main.87f1aa22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5868ac5d.css",
+    "static/js/main.87f1aa22.js"
+  ]
+}
